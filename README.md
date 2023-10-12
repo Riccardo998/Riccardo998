@@ -2,7 +2,7 @@
 
 <p>I'm currently pursuing a master's degree in computer science and engineering at Politecnico di Milano</p>
 
-<p>Pasionate about IOT, software engineering, AI, reccommender systems.</p>
+<p>Passionate about IOT, software engineering, AI, reccommender systems.</p>
 
 <p>📫 you can reach me through:
 - <a href=www.linkedin.com/in/riccardostorchi> LinkedIn </a>

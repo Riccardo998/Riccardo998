@@ -5,7 +5,7 @@
 <p>Passionate about IOT, software engineering, AI, reccommender systems.</p>
 
 <p>📫 you can reach me through:
-- <a href=www.linkedin.com/in/riccardostorchi> LinkedIn </a>
+- <a rel="nofollow me" class="Link--primary" href = "www.linkedin.com/in/riccardostorchi"> LinkedIn </a>
 </p>
 
 <p>

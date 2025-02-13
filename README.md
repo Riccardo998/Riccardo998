@@ -11,7 +11,7 @@ I'm a **Computer Science & Engineering** master's student at [Politecnico di Mil
 
 ### 🚀 About Me  
 - 🎓 Currently pursuing my Master's at **Politecnico di Milano**
-- 🌍 Completed an **Erasmus exchange program** at [Blekinge Institute of Technology](https://www.bth.se/eng/),
+- 🌍 Completed an **Erasmus exchange program** at [Blekinge Institute of Technology](https://www.bth.se/eng/)
 - 🎓 Earned my Bachelor's degree from [Università degli Studi di Modena e Reggio Emilia](https://www.ingmo.unimore.it/)
 - 💡 Passionate about **AI, IoT, Software Engineering, and Recommender Systems**  
 - 💼 Looking for **internships, collaborations, and innovative projects**  

@@ -2,7 +2,6 @@
 
 I'm a **Computer Science & Engineering** master's student at [Politecnico di Milano](https://www.polimi.it/), passionate about **AI, LLM, Recommender Systems, IoT and Software Engineering**. I thrive on building innovative solutions and tackling challenging projects that push the boundaries of technology.  
 
----
 
 ### 🌍 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardostorchi/) 

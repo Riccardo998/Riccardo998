@@ -4,10 +4,15 @@ I'm a **Computer Science & Engineering** master's student at [Politecnico di Mil
 
 ---
 
+### 🌍 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardostorchi/) 
+
+---
+
 ### 🚀 About Me  
 - 🎓 Currently pursuing my Master's at **Politecnico di Milano**
-- 🌍 Completed an **Erasmus exchange program** at **[Blekinge Institute of Technology]**(https://www.bth.se/eng/),
-- 🎓 Earned my Bachelor's degree from **[Università degli Studi di Modena e Reggio Emilia]**(https://www.ingmo.unimore.it/)
+- 🌍 Completed an **Erasmus exchange program** at [Blekinge Institute of Technology](https://www.bth.se/eng/),
+- 🎓 Earned my Bachelor's degree from [Università degli Studi di Modena e Reggio Emilia](https://www.ingmo.unimore.it/)
 - 💡 Passionate about **AI, IoT, Software Engineering, and Recommender Systems**  
 - 💼 Looking for **internships, collaborations, and innovative projects**  
 - ⚡ Always eager to learn and contribute to **open-source** projects  
@@ -41,8 +46,7 @@ I'm a **Computer Science & Engineering** master's student at [Politecnico di Mil
 
 ---
 
-### 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardostorchi/) 
+
 
 
 _"Always looking for fun projects and challenges!"_ ⚡

@@ -47,7 +47,8 @@ I'm a **Computer Science & Engineering** master's student at [Politecnico di Mil
 
 ### 📊 Skills Overview  
 
-![Skills](https://quickchart.io/chart?c={type:'radar',data:{labels:['AI','Software Engineering','IoT','Recommender Systems','Databases'],datasets:[{label:'Skill Level',data:[9,8,7,8,7]}]},"options":{"scale":{"ticks":{"beginAtZero":true,"max":10}}}})
+![Skills](https://quickchart.io/chart?c={type:'radar',data:{labels:['AI','Software Engineering','IoT','Recommender Systems','Databases'],datasets:[{label:'Skill Level',data:[9,8,7,8,7]}]},"options":{"scale":{"ticks":{"beginAtZero":true,"max":10}}}})  
+
 
 
 ---
@@ -57,6 +58,9 @@ I'm a **Computer Science & Engineering** master's student at [Politecnico di Mil
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Riccardo998&theme=react-dark)  
  
 
+---
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Riccardo998&theme=react-dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riccardo998&show_icons=true&theme=radical)  
 
 
 

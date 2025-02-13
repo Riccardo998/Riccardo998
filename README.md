@@ -1,17 +1,16 @@
-### Hi there, I'm [Your Name]! 👋  
+### Hi there, I'm Riccardo Storchi! 👋  
 
-![Dynamic Header](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-I'm a **Computer Science & Engineering** master's student at [Politecnico di Milano](https://www.polimi.it/), passionate about **IoT, AI, Recommender Systems, and Software Engineering**. I thrive on building innovative solutions and tackling challenging projects that push the boundaries of technology.  
+I'm a **Computer Science & Engineering** master's student at [Politecnico di Milano](https://www.polimi.it/), passionate about **AI, LLM, Recommender Systems, IoT and Software Engineering**. I thrive on building innovative solutions and tackling challenging projects that push the boundaries of technology.  
 
 ---
 
 ### 🚀 About Me  
-- 🎓 Currently pursuing my Master's at **Politecnico di Milano**  
+- 🎓 Currently pursuing my Master's at **Politecnico di Milano**
+- 🌍 Completed an **Erasmus exchange program** at **[Blekinge Institute of Technology]**(https://www.bth.se/eng/),
+- 🎓 Earned my Bachelor's degree from **[Università degli Studi di Modena e Reggio Emilia]**(https://www.ingmo.unimore.it/)
 - 💡 Passionate about **AI, IoT, Software Engineering, and Recommender Systems**  
 - 💼 Looking for **internships, collaborations, and innovative projects**  
-- 📚 Always eager to learn and contribute to **open-source** projects  
-- ⚡ Love **problem-solving, hackathons, and coding challenges**  
+- ⚡ Always eager to learn and contribute to **open-source** projects  
 
 ---
 
@@ -19,34 +18,32 @@ I'm a **Computer Science & Engineering** master's student at [Politecnico di Mil
 
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 #### Frameworks & Tools:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
 
 ---
 
 ### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riccardo998&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riccardo998&layout=compact&theme=radical)  
 
 ---
 
 ### 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
-📫 Reach me via email: **your.email@example.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardostorchi/) 
 
----
-
-### 💡 Featured Projects  
-🚀 [Project Name 1](https://github.com/your-username/project1) - A short description of the project.  
-⚡ [Project Name 2](https://github.com/your-username/project2) - Another cool project worth checking out!  
-
----
 
 _"Always looking for fun projects and challenges!"_ ⚡
+
